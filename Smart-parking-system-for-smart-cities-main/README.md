@@ -102,13 +102,5 @@ Tracks parking status and vehicle information.
 
 ---
 
-## Author
-
-Rushikesh Dattatray Kumbhar 
-Bachelor of Computer Science Engineering (AIML)
-D. Y. Patil Agriculture and Technical University
-
-•	Git Hub Link: https://github.com/Rushipotter/Smart-parking-system-for-smart-cities
-•	Demo Link: https://drive.google.com/file/d/1YQ2_cV-XQSbdDga4oQXpeVyK-heytU4k/view?usp=sharing
 
 
